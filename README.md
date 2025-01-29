@@ -72,7 +72,7 @@ The following Python libraries are required (listed in requirement.txt):
 
 - [@Abhishekkashayap](https://www.github.com/Abhishekkashayap)
 - [@Hraj24](https://www.github.com/Hraj24)
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Sagnik-SB](https://www.github.com/Sagnik-SB)
 
 ## License
 
